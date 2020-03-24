@@ -1,0 +1,10 @@
+C:\Users\Ilidan\source\repos\iks_oks\iks_oks\bin\Debug\iks_oks.exe.config
+C:\Users\Ilidan\source\repos\iks_oks\iks_oks\bin\Debug\iks_oks.exe
+C:\Users\Ilidan\source\repos\iks_oks\iks_oks\bin\Debug\iks_oks.pdb
+C:\Users\Ilidan\source\repos\iks_oks\iks_oks\obj\Debug\iks_oks.csprojAssemblyReference.cache
+C:\Users\Ilidan\source\repos\iks_oks\iks_oks\obj\Debug\iks_oks.Form1.resources
+C:\Users\Ilidan\source\repos\iks_oks\iks_oks\obj\Debug\iks_oks.Properties.Resources.resources
+C:\Users\Ilidan\source\repos\iks_oks\iks_oks\obj\Debug\iks_oks.csproj.GenerateResource.cache
+C:\Users\Ilidan\source\repos\iks_oks\iks_oks\obj\Debug\iks_oks.csproj.CoreCompileInputs.cache
+C:\Users\Ilidan\source\repos\iks_oks\iks_oks\obj\Debug\iks_oks.exe
+C:\Users\Ilidan\source\repos\iks_oks\iks_oks\obj\Debug\iks_oks.pdb
